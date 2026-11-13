@@ -1,0 +1,30 @@
+{
+  "east_km": [
+    -19,
+    17
+  ],
+  "north_km": [
+    -33,
+    12
+  ],
+  "origin_lon_deg_e": 235.87870392697795,
+  "origin_lat_deg_n": 38.64879359665299,
+  "east_scale_km_per_degree": 86.97851665982056,
+  "north_scale_km_per_degree": 111.195,
+  "zero_based_native_slice": [
+    1490,
+    1780,
+    1274,
+    1546
+  ],
+  "native_rho_shape": [
+    290,
+    272
+  ],
+  "mask_inside_count": 40502,
+  "support_margin_grid_cells": 3,
+  "lon_min_deg_e": 235.66025953749306,
+  "lon_max_deg_e": 236.07409236811307,
+  "lat_min_deg_n": 38.352018989913375,
+  "lat_max_deg_n": 38.75670965949263
+}
