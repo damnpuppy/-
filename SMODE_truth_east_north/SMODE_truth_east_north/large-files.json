@@ -1,0 +1,71 @@
+﻿{
+    "version":  1,
+    "files":  [
+                  {
+                      "sha256":  "6cc6ca6b5c5f11385c854db77a6eb298bad40b95598995a9069e1b2e326a60de",
+                      "name":  "smode_roms_his.20130401004136_subset.nc",
+                      "size":  3103871294,
+                      "parts":  [
+                                    {
+                                        "sha256":  "958eb43e326e04a7444f7c4f84246e8c8909f58a48c0ab194bae3a114fa2f7ea",
+                                        "name":  "smode_roms_his.20130401004136_subset.nc.part000",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "6a9c6cd8081d2f57a27f4a0d0cb3353e8251ac31625493c48721f13e1157c50f",
+                                        "name":  "smode_roms_his.20130401004136_subset.nc.part001",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "005ba321d28eee0931dd6344e2a266f257b26aba2c3928f714837179fb6ff0cf",
+                                        "name":  "smode_roms_his.20130401004136_subset.nc.part002",
+                                        "size":  956387646
+                                    }
+                                ]
+                  },
+                  {
+                      "sha256":  "f80f46fbdc3278b3ac80ea0ab7eaea5ee358600838fb23fcf824df568c9bb3a7",
+                      "name":  "smode_roms_his.20130402004136_subset.nc",
+                      "size":  3118076080,
+                      "parts":  [
+                                    {
+                                        "sha256":  "0e2b7124fad3408c8163e5e71a3c71143a9a978553925094c234c2420f168219",
+                                        "name":  "smode_roms_his.20130402004136_subset.nc.part000",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "b0615aed04ebd226db79765e5e861ce9cd2ed99fe8f2cb718b581877949a72c3",
+                                        "name":  "smode_roms_his.20130402004136_subset.nc.part001",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "958ea103215d5ba6e55caacf39ead95cd026bdf1451a3990e90adc0dae81d820",
+                                        "name":  "smode_roms_his.20130402004136_subset.nc.part002",
+                                        "size":  970592432
+                                    }
+                                ]
+                  },
+                  {
+                      "sha256":  "fa1d72f8cf954f0eebb458b4e007a985c9f119290bf05dd4c2b155c595f67338",
+                      "name":  "smode_vertical_coordinates.nc",
+                      "size":  2615688164,
+                      "parts":  [
+                                    {
+                                        "sha256":  "d5882504a3cf0838da5b2888b23858e9457aa8ce5cd811463d7dd0fb85335fc7",
+                                        "name":  "smode_vertical_coordinates.nc.part000",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "d2113915e6df5d53b379d95052e82687efd9afe7d73c9edbb14163f95ddff2b3",
+                                        "name":  "smode_vertical_coordinates.nc.part001",
+                                        "size":  1073741824
+                                    },
+                                    {
+                                        "sha256":  "6eab0143069bd1bb411a45f861094a11a98ab838dc7108c2fc5010320aadf0b1",
+                                        "name":  "smode_vertical_coordinates.nc.part002",
+                                        "size":  468204516
+                                    }
+                                ]
+                  }
+              ]
+}
